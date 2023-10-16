@@ -13,7 +13,7 @@ public class Main {
     public static void main(String[] args) {
         // onderdelenOpvragenLocalDate();
         // vergelijkenVanLocalDates();
-        // berekeningenOpLocalDate();
+        berekeningenOpLocalDate();
         // opmakenLocalDate();
         // String omzetten naar LocalDate()
         var formatter = DateTimeFormatter.ofPattern("d/M/yyyy");
